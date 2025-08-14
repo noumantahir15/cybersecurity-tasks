@@ -1,0 +1,3 @@
+- Validate all inputs.
+- Use HTTPS for data transmission.
+- Hash and salt passwords.

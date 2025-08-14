@@ -1,0 +1,22 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-08-13 17:07 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000089s latency).
+All 1000 scanned ports on localhost (127.0.0.1) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 2.16 seconds
+ Tasks done: 
+performed nmap scan
+setup winston logging
+created security checklist
+RESULTS:
+nmap found open ports and services
+logs saved in security.log
+checklist ready for review
+FIXES:
+inputs validated
+https suggested
+password hashing and salting applies
